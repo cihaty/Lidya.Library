@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lidya.ElasticSearchRepository", "Lidya.ElasticSearchRepository\Lidya.ElasticSearchRepository.csproj", "{A8B06551-1024-4BDD-9E1D-31148C90BC76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lidya.SqlRepository", "Lidya.SqlRepository\Lidya.SqlRepository.csproj", "{E63986B6-03AF-44B5-8CA3-9F326364DDB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lidya.MongoRepository", "Lidya.MongoRepository\Lidya.MongoRepository.csproj", "{13B4845A-B1D6-4F00-A50B-F206DB7FE1E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lidya.MemoryCaching", "Lidya.MemoryCaching\Lidya.MemoryCaching.csproj", "{F1C5040C-2B57-4A90-949E-0577D4094E04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lidya.Toolkit", "Lidya.Toolkit\Lidya.Toolkit.csproj", "{3DEC60FB-0D77-47D4-9DC3-E7000B4DBB61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8B06551-1024-4BDD-9E1D-31148C90BC76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8B06551-1024-4BDD-9E1D-31148C90BC76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8B06551-1024-4BDD-9E1D-31148C90BC76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8B06551-1024-4BDD-9E1D-31148C90BC76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E63986B6-03AF-44B5-8CA3-9F326364DDB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E63986B6-03AF-44B5-8CA3-9F326364DDB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E63986B6-03AF-44B5-8CA3-9F326364DDB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E63986B6-03AF-44B5-8CA3-9F326364DDB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13B4845A-B1D6-4F00-A50B-F206DB7FE1E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13B4845A-B1D6-4F00-A50B-F206DB7FE1E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13B4845A-B1D6-4F00-A50B-F206DB7FE1E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13B4845A-B1D6-4F00-A50B-F206DB7FE1E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1C5040C-2B57-4A90-949E-0577D4094E04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1C5040C-2B57-4A90-949E-0577D4094E04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1C5040C-2B57-4A90-949E-0577D4094E04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1C5040C-2B57-4A90-949E-0577D4094E04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DEC60FB-0D77-47D4-9DC3-E7000B4DBB61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DEC60FB-0D77-47D4-9DC3-E7000B4DBB61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DEC60FB-0D77-47D4-9DC3-E7000B4DBB61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DEC60FB-0D77-47D4-9DC3-E7000B4DBB61}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D576CDA-7536-44E8-A806-215124E676E5}
+	EndGlobalSection
+EndGlobal
